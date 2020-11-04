@@ -1,6 +1,8 @@
-# startupnamegenerator
+# BoomGenerator
+A application use to generat brand name
 
 A new Flutter application.
+
 
 ## Getting Started
 
