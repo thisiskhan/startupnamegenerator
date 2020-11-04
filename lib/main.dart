@@ -7,7 +7,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Names Generator',
+      title: 'BoomGenerat',
       theme: ThemeData(
         primaryColor: Colors.white,
         
@@ -82,7 +82,8 @@ class _RandomWordsState extends State<RandomWords> {
 
       return Scaffold(
         appBar: AppBar(
-          title: Text('Saved Suggestions'),
+          elevation: 1,
+          title: Text('BoomSaved'),
         ),
         body: ListView(children: divided,),
       );
@@ -93,7 +94,8 @@ class _RandomWordsState extends State<RandomWords> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Names Generator'),
+        elevation: 1,
+        title: Text('BoomGenerat '),
         actions: [
           IconButton(icon: Icon(Icons.list), onPressed: _pushSaved),
         ],
