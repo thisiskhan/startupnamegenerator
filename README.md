@@ -1,7 +1,7 @@
 # BoomGenerator
 A application use to generat brand name
 
-A new Flutter application.
+
 <p align ="center">
 <img width="400" alt="Screenshot 2020-11-04 at 3 50 30 PM" src="https://user-images.githubusercontent.com/72858063/98951518-5b8bc580-2520-11eb-8da6-ca716d92621a.png">
   <img width="400" alt="Screenshot 2020-11-04 at 3 50 26 PM" src="https://user-images.githubusercontent.com/72858063/98951524-5dee1f80-2520-11eb-9087-981e4cea9c15.png">
